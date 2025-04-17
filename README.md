@@ -7,7 +7,7 @@ Ce projet consiste en la conception et la mise en œuvre d'un datawarehouse dest
 **Fonctionnalités principales :**
 * Conception d'un DWH pour les ventes internationales.
 * Processus ETL avec Semarchy (ingestion, validation, transformation des fichiers caisse/articles).
-* Modélisation en flocon (dimensions produit, temps, géographie).
+* Modélisation en étoile.
 * Tableaux de bord Power BI pour le suivi des indicateurs clés.
 
 **le workspace du projet** finalisé seront ajoutés ici très prochainement. Revenez bientôt !
